@@ -2,6 +2,10 @@
 
 
 - name: run-tests
+
+- name: run-tests
+  steps:
+    - name: Run unit tests with nose
 ``
 
 
