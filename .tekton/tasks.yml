@@ -1,3 +1,13 @@
+- name: test
+  steps:
+    - name: Run unit tests with nose
+      image: python:3.9
+      script: |
+        nosetests
+
+
+
+
 - name: cleanup
 
 
