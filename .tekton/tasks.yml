@@ -35,3 +35,6 @@ items:
           script: |
             pip install nose
             nosetests
+
+
+- name: Run unit tests with nose
