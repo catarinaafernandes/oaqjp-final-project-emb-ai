@@ -1,3 +1,10 @@
+- name: cleanup
+
+
+- name: run-tests
+``
+
+
 apiVersion: tekton.dev/v1beta1
 kind: TaskList
 
